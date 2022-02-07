@@ -1,4 +1,4 @@
-Hi, I’m @Zeena-Shawa, a PhD Student in Medical Imaging at UCL. 
+Hi, I’m @Zeena-Shawa, a Medical Imaging PhD Student in the Centre for Medical Image Computing at UCL. 
 I’m interested in Disease Progression Modelling, Medical Image Analysis and Microstructure Imaging.
 You can find me on [LinkedIn](https://www.linkedin.com/in/zeena-shawa/) and [Twitter](https://twitter.com/ShawaZeena). 
 
